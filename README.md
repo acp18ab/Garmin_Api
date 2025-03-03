@@ -39,7 +39,7 @@ Set the following environment variables:
 
 ## Usage
 
-Once you have authenticated, you can use the access token fetched to make requests to Garmin Connect APIs as per your application's requirements.
+After authenticating, you can use the access token obtained to make requests to the Garmin Connect APIs according to your application's requirements. Open the `verify.py` file, insert your tokens and verifier, and then run `verify.py` to add the user to your app.
 
 ## Additional Information
 
