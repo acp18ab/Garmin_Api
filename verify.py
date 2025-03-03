@@ -5,11 +5,11 @@ import hmac
 import base64
 
 # Replace these with your actual values
-consumer_key = "f36d751c-7a07-4374-b9f1-421c90c24b74"
-consumer_secret = "chmaH9m5WsJwXOwCohvgihgZLgRf2Lbsbq4"
-request_token = "ce1629f9-2788-49bc-90d4-bec0f9c849ba"
-request_token_secret = "p3rzL33lAuA7uDw6LhFuhUjKtWCHgP5N3rt"
-oauth_verifier = "VE0MsgHidv"
+consumer_key = ""
+consumer_secret = ""
+request_token = ""
+request_token_secret = ""
+oauth_verifier = ""
 
 # Request URL
 url = "https://connectapi.garmin.com/oauth-service/oauth/access_token"
