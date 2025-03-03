@@ -6,8 +6,8 @@ app = Flask(__name__)
 app.secret_key = 'your_secret_key'  # Change this to a secret key for session management
 
 # Replace these with your actual values
-consumer_key = "f36d751c-7a07-4374-b9f1-421c90c24b74"
-consumer_secret = "chmaH9m5WsJwXOwCohvgihgZLgRf2Lbsbq4"
+consumer_key = ""
+consumer_secret = ""
 
 request_token = ""
 request_token_secret = ""
